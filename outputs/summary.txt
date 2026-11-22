@@ -1,0 +1,37 @@
+FITGATE CLINIC VISIT SUMMARY
+============================
+
+Total workers: 20
+
+By priority:
+  see_now: 8
+  today: 8
+  routine: 4
+
+By category:
+  allergy: 0
+  fever_cold: 2
+  injury: 8
+  other: 5
+  pain: 4
+  stomach: 1
+
+By arrival hour:
+  09:00: 12
+  10:00: 7
+  unknown hour: 1
+
+By job:
+  Cleaner: 4
+  Driver: 3
+  Forklift Operator: 2
+  Machine Operator: 2
+  Office Worker: 3
+  Unknown Job: 1
+  Welder: 5
+
+Workers held per job:
+  Driver: 1
+  Forklift Operator: 2
+  Machine Operator: 1
+  Welder: 3

@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local editor settings
+.vscode/
+
+# Generated nurse queue contains worker notes
+outputs/nurse_queue.csv
