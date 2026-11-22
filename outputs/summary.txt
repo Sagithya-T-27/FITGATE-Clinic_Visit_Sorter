@@ -5,14 +5,14 @@ Total workers: 20
 
 By priority:
   see_now: 8
-  today: 8
-  routine: 4
+  today: 9
+  routine: 3
 
 By category:
   allergy: 0
-  fever_cold: 2
-  injury: 8
-  other: 5
+  fever_cold: 1
+  injury: 7
+  other: 7
   pain: 4
   stomach: 1
 
