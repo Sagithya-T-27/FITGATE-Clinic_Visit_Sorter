@@ -94,7 +94,7 @@ The nurse sees every worker and makes every medical decision. FITGATE only organ
 
 ## Author
 
-[Your Name]
+Sagithya T
 
 ## Course
 
