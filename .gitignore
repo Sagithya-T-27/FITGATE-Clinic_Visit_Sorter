@@ -7,5 +7,3 @@ __pycache__/
 # Local editor settings
 .vscode/
 
-# Generated nurse queue contains worker notes
-outputs/nurse_queue.csv

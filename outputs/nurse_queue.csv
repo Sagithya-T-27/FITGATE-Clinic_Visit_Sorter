@@ -1,0 +1,21 @@
+id,time,job,category,priority,affects,summary,hold_from,priority_reason,flags,note,original_row
+V03,09:02,Driver,pain,see_now,breathing,Chest pain and difficulty breathing,,LLM; red flag,,Chest pain and difficulty breathing,3
+V05,09:20,Forklift Operator,other,see_now,balance;alertness,Feeling dizzy and losing balance,Forklift Operator,LLM; ability match,,Feeling dizzy and losing balance,5
+V08,09:35,Driver,other,see_now,vision,Blurry vision,Driver,LLM; ability match,,My vision is blurry,8
+V10,09:45,Welder,injury,see_now,vision,Chemical splashed into eye,Welder,LLM; ability match; red flag,,Chemical splashed into my eye,10
+V12,09:55,Forklift Operator,other,see_now,alertness;balance,Feeling very sleepy and dizzy,Forklift Operator,LLM; ability match,,Feeling very sleepy and dizzy,12
+V13,10:00,Cleaner,pain,see_now,breathing,Chest pain and breathing difficulty,,LLM; red flag,,nenju vali and moochu kashtam,13
+V14,10:05,Welder,injury,see_now,grip,Heavy bleeding from finger,Welder,LLM; ability match; red flag,,Heavy bleeding from my finger,14
+V18,10:25,Welder,injury,see_now,none,Electric shock while repairing a machine,,LLM; red flag,,Electric shock while repairing a machine,18
+V01,09:05,Welder,injury,today,vision,Blurry and watering eyes,Welder,LLM; ability match,,My eyes are blurry and watering,1
+V02,09:08,Cleaner,fever_cold,today,none,Feeling cold and sneezing,,LLM,,Feeling a little cold and sneezing,2
+V07,09:30,Cleaner,stomach,today,none,Stomach pain since morning,,LLM,,Stomach pain since morning,7
+V09,09:40,Machine Operator,injury,today,grip,Weak hand grip,Machine Operator,LLM; ability match,,My hand grip is weak,9
+V11,09:50,Office Worker,pain,today,none,Headache since morning,,LLM,,Headache since morning,11
+V15,10:10,Machine Operator,injury,today,walking,Swollen ankle and inability to walk,,LLM,,My ankle is swollen and I cannot walk,15
+V17,10:20,Cleaner,other,today,,No note provided,,empty note,empty note,,17
+V19,10:30,Unknown Job,other,today,,Manual review required,,fallback,unknown job;LLM fallback,Feeling feverish and weak,19
+V20,unknown,Office Worker,pain,today,none,Severe headache since morning,,LLM,unknown hour,Thalai vali romba since morning,20
+V04,09:15,Office Worker,other,routine,none,Request for medical certificate,,LLM,,Need a medical certificate for yesterday,4
+V06,09:25,Welder,injury,routine,none,Small cut on finger,,LLM,,Small cut on my finger,6
+V16,10:15,Driver,other,routine,none,Routine checkup requested,,LLM,,Just need a routine checkup,16
